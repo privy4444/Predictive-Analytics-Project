@@ -34,7 +34,7 @@ Instructions on how to open, run Colab notebooks, and view my results
 •	Go to GitHub repository.
 •	Open Colab notebook links and just click the links.
 
-3.	Running the Notebook:
+2.	Running the Notebook:
    
 •	Run all cells in order.
 •	The notebook will:
@@ -43,7 +43,7 @@ Instructions on how to open, run Colab notebooks, and view my results
 	Train Logistic Regression and Random Forest models
 	Evaluate performance using metrics (Accuracy, Precision, Recall, F1 Score)
 
-5.	Viewing Results:
+3.	Viewing Results:
    
 •	Visualizations and summary tables are embedded throughout the notebook.
 
