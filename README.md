@@ -26,3 +26,25 @@ pandas, numpy – Data manipulation
 matplotlib, seaborn – Data visualization
 sklearn – Model building, evaluation, and preprocessing
 
+
+Instructions on how to open, run Colab notebooks, and view my results
+
+1.	Open in Google Colab:
+   
+•	Go to GitHub repository.
+•	Open Colab notebook links and just click the links.
+
+3.	Running the Notebook:
+   
+•	Run all cells in order.
+•	The notebook will:
+	Load and preprocess the data
+	Perform EDA (visuals included)
+	Train Logistic Regression and Random Forest models
+	Evaluate performance using metrics (Accuracy, Precision, Recall, F1 Score)
+
+5.	Viewing Results:
+   
+•	Visualizations and summary tables are embedded throughout the notebook.
+
+
